@@ -48,7 +48,22 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ~~~
 
 ## Output:
-![decision tree classifier model](sam.png)
+## Data head:
+![pic 1]()
+## Data info:
+![pic 2]()
+## isnull:
+![pic 3]()
+## Data left:
+![pic 4]()
+## Data salary:
+![pic 5]()
+## x.head:
+![pic 6]()
+## Accuracy:
+![pic 7]()
+## Predict:
+![pic 8]()
 
 
 ## Result:
