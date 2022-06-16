@@ -63,7 +63,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Accuracy:
 ![pic 7](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/accuracy.png)
 ## Predict:
-![pic 8]()
+![pic 8](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/predict.png)
 
 
 ## Result:
