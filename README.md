@@ -57,7 +57,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Data left:
 ![pic 4](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20left.png)
 ## Data salary:
-![pic 5]()
+![pic 5](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/salary.png)
 ## x.head:
 ![pic 6]()
 ## Accuracy:
