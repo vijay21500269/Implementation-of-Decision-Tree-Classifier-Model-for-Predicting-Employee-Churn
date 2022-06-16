@@ -55,7 +55,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## isnull:
 ![pic 3](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/isnull.png)
 ## Data left:
-![pic 4]()
+![pic 4](https://github.com/vijay21500269/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20left.png)
 ## Data salary:
 ![pic 5]()
 ## x.head:
